@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\dev\c++\search-infinite-array\search-infinite-array\src\main.cpp(41): warning C4018: '<': signed/unsigned mismatch
+  search-infinite-array.vcxproj -> C:\dev\c++\search-infinite-array\Debug\search-infinite-array.exe

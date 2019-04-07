@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\dev\c++\string-reversal\string-reversal\src\main.cpp(10): warning C4018: '<': signed/unsigned mismatch
+c:\dev\c++\string-reversal\string-reversal\src\main.cpp(49): warning C4018: '<': signed/unsigned mismatch
+  string-reversal.vcxproj -> C:\dev\c++\string-reversal\Debug\string-reversal.exe

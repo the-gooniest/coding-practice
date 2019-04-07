@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\dev\c++\dijkstra\dijkstra\src\main.cpp(77): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'size_t'
+  c:\dev\c++\dijkstra\dijkstra\src\main.cpp(77): note: consider using '%zd' in the format string
+  dijkstra.vcxproj -> C:\dev\c++\dijkstra\x64\Debug\dijkstra.exe

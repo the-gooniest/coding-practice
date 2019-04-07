@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\dev\c++\merge-ranges\merge-ranges\src\main.cpp(16): warning C4018: '<': signed/unsigned mismatch
+  merge-ranges.vcxproj -> C:\dev\c++\merge-ranges\Debug\merge-ranges.exe

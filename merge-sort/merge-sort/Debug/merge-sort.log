@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\dev\c++\merge-sort\merge-sort\src\main.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\dev\c++\merge-sort\merge-sort\src\main.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\dev\c++\merge-sort\merge-sort\src\main.cpp(36): warning C4018: '<': signed/unsigned mismatch
+  merge-sort.vcxproj -> C:\dev\c++\merge-sort\Debug\merge-sort.exe
