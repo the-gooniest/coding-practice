@@ -1,8 +1,0 @@
-﻿  BinaryHeap.cpp
-  main.cpp
-c:\dev\c++\dijkstra\dijkstra\src\main.cpp(74): error C2955: 'BinaryHeap': use of class template requires template argument list
-  c:\dev\c++\dijkstra\dijkstra\include\binaryheap.h(5): note: see declaration of 'BinaryHeap'
-c:\dev\c++\dijkstra\dijkstra\src\main.cpp(74): error C2133: 'heap': unknown size
-c:\dev\c++\dijkstra\dijkstra\src\main.cpp(74): error C2512: 'BinaryHeap': no appropriate default constructor available
-  c:\dev\c++\dijkstra\dijkstra\include\binaryheap.h(5): note: see declaration of 'BinaryHeap'
-  Generating Code...
